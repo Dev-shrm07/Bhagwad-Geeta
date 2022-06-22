@@ -98,12 +98,12 @@
         height: 40vh;
     }
     .quote{
-        padding: 1em;
+        padding: 0.6em;
         text-align: center;
         font-size: 1.34rem;
         width: 100%;
         margin-right: 0;
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     .ftext{
         margin: 1rem 0rem;
