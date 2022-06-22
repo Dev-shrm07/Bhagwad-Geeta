@@ -103,11 +103,13 @@
         font-size: 1.34rem;
         width: 100%;
         margin-right: 0;
+        font-size: 1rem;
     }
     .ftext{
         margin: 1rem 0rem;
         align-items: center;
         justify-content: center;
+        width: 90%;
     }
     .fbtn{
         margin: 1.3rem 0rem;
