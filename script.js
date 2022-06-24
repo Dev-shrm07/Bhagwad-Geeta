@@ -17,7 +17,7 @@ bt.addEventListener('click',()=>{
 	document.getElementById("finalbox").classList.remove('f');
 	const a = fetchdata();
 	a.then(quotes=>{
-		let index = Math.floor(Math.random()*31);
+		let index = Math.floor(Math.random()*30);
 		let text = quotes.quotes[index];
 		document.getElementById("insert").innerHTML = text;
 	});
